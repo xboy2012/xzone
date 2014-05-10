@@ -5,8 +5,6 @@
 	<title>XBOY</title>
 </head>
 <body>
-<?php
- echo 'Hello world!'; ?
->
+123
 </body>
 </html>
