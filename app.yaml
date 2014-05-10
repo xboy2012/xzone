@@ -9,5 +9,9 @@ handlers:
   static_files: favicon.ico
   upload: favicon\.ico
 
+- url: /apple-touch-icon-144¡Á144\.png
+  static_files: apple-touch-icon-144¡Á144.png
+  upload: apple-touch-icon-144¡Á144\.png
+
 - url: .*
   script: main.php
